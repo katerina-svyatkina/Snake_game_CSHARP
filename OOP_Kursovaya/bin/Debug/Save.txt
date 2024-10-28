@@ -1,0 +1,12 @@
+[Apples] : 
+1
+16 10 1
+[Snake] : 
+3
+14 7 Head
+15 7 Body
+16 7 Body
+[Dir] : 
+-1 0
+[Info] : 
+1 0

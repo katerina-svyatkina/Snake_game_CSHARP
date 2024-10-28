@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\OOP_Kursovaya\OOP_Kursovaya\bin\Debug\OOP_Kursovaya.exe.config
+C:\Users\Катя\source\repos\OOP_Kursovaya\OOP_Kursovaya\bin\Debug\OOP_Kursovaya.exe
+C:\Users\Катя\source\repos\OOP_Kursovaya\OOP_Kursovaya\bin\Debug\OOP_Kursovaya.pdb
+C:\Users\Катя\source\repos\OOP_Kursovaya\OOP_Kursovaya\obj\Debug\OOP_Kursovaya.csproj.AssemblyReference.cache
+C:\Users\Катя\source\repos\OOP_Kursovaya\OOP_Kursovaya\obj\Debug\OOP_Kursovaya.csproj.SuggestedBindingRedirects.cache
+C:\Users\Катя\source\repos\OOP_Kursovaya\OOP_Kursovaya\obj\Debug\OOP_Kursovaya.Properties.Resources.resources
+C:\Users\Катя\source\repos\OOP_Kursovaya\OOP_Kursovaya\obj\Debug\OOP_Kursovaya.csproj.GenerateResource.cache
+C:\Users\Катя\source\repos\OOP_Kursovaya\OOP_Kursovaya\obj\Debug\OOP_Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\OOP_Kursovaya\OOP_Kursovaya\obj\Debug\OOP_Kursovaya.exe
+C:\Users\Катя\source\repos\OOP_Kursovaya\OOP_Kursovaya\obj\Debug\OOP_Kursovaya.pdb
+C:\Users\Катя\source\repos\OOP_Kursovaya\OOP_Kursovaya\obj\Debug\OOP_Kursovaya.Game_Snake.resources
